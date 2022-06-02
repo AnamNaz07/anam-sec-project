@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #5C4DB1;
+    width: 100vw;
+    height: 100px;
+    color: white;
+}
+header h1{
+    /* background-color: red; */
+    margin: 0 110px;
+    top: 22px;
+    position: relative;
+    font-family: 'Alegreya';
+}
+header img{
+    float: right;
+    position: relative;
+    top: -20px;
+    height: 50px;
+    width: 50px;
+}
+/* Signin.html */
+.signin-main{
+    margin: auto;
+    width: 80vw;
+    height: 50vh;
+    /* background-color: blue; */
+    position: relative;
+}
+.signin-btn{
+    background: #5C4DB1;
+    padding: 13px 13px;
+    width: 27vw;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-top: 22px;
+}
+.signin-div{
+    text-align: center;
+    /* align-items: center; */
+    margin: auto;
+    /* background-color: black; */
+}
+.signin-logo{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.signin-logo img{
+    width: 50%;
+    
+    /* margin: auto; */
+    /* text-align: center; */
+}
+.Forget-Password{
+    text-align: center;
+
+}
+.symptom-btn{
+    background: #5C4DB1;
+    padding: 13px 13px;
+    width: 17vw;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-top: 22px;
+}
+.weather-btn{
+    background: #5C4DB1;
+    padding: 13px 13px;
+    width: 17vw;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-top: 22px;
+    margin-left: 72px;
+}
+.stat-btn{
+    background: #5C4DB1;
+    padding: 13px 13px;
+    width: 17vw;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-top: 22px;
+    margin-left: 72px;
+
+}
+.consult-btn{
+    background: #5C4DB1;
+    padding: 13px 13px;
+    width: 17vw;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-top: 22px;
+    /* margin-left: 12px; */
+}
+.checkbox{
+    /* background-color: #373737; */
+    color: blueviolet;
+
+}
+.sneeze-img{
+    /* display: none; */
+    height: 120px;
+    width: 120px;
+}
+.submit-div{
+    display: flex;
+    justify-content: center;
+}
+.submit-btn{
+    background: #5C4DB1;
+    padding: 13px 13px;
+    width: 17vw;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-top: 22px;
+
+
+}
+.checkbox p{
+    /* display: none; */
+    font-weight: bolder;
+}
+.weather-div{
+    color: #5C4DB1;
+}
+.weather-div p{
+    font-weight: bolder;
+}
+.precautions-div{
+    /* top: -50px; */
+    color: #5C4DB1;
+}
+.precautions-div p{
+    font-weight: bolder;
+}
+.dropdown{
+    float: right;
+    margin-right: 20px;
+}
+.timing{
+    /* display: none; */
+    color: #5C4DB1;
+}
